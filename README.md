@@ -122,5 +122,3 @@ Si activás `-v`, además verás los tiempos de cada intento y códigos.
 ## Licencia y responsabilidad
 
 Esta herramienta es para **testing autorizado**. No me hago responsable por su uso indebido. Usala solo donde tengas permiso.
-
-```
